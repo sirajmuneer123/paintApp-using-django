@@ -1,5 +1,4 @@
 
-
 var fillFlag=0;		//   initialise fillFlag zero for border
 var eraserWidth=10;	//   initialise eraser width
  
